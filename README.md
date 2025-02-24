@@ -52,3 +52,5 @@ Updating the files
 
 Step 5 assumes a working php-cli.
 Step 6 assumes a working node.js & "[json](https://github.com/trentm/json)" 
+
+test
